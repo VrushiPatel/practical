@@ -1,0 +1,6 @@
+# Referenced at E:\android projects\Practicals\practicalapp\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at E:\android projects\Practicals\practicalapp\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:22
+-keep class com.practicalapp.MainActivity { <init>(); }
+# Referenced at E:\android projects\Practicals\practicalapp\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }
